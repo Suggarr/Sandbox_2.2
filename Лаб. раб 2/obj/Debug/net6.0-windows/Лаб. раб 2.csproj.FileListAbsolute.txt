@@ -14,3 +14,20 @@ D:\Курс 2\Семестр 2\Конструирование ПО\Лаб. ра�
 D:\Курс 2\Семестр 2\Конструирование ПО\Лаб. раб 2\obj\Debug\net6.0-windows\Лаб. раб 2.pdb
 D:\Курс 2\Семестр 2\Конструирование ПО\Лаб. раб 2\obj\Debug\net6.0-windows\Лаб. раб 2.genruntimeconfig.cache
 D:\Курс 2\Семестр 2\Конструирование ПО\Лаб. раб 2\obj\Debug\net6.0-windows\ref\Лаб. раб 2.dll
+D:\Курс 2\Семестр 2\Sandbox_2.2\Лаб. раб 2\bin\Debug\net6.0-windows\Лаб. раб 2.exe
+D:\Курс 2\Семестр 2\Sandbox_2.2\Лаб. раб 2\bin\Debug\net6.0-windows\Лаб. раб 2.deps.json
+D:\Курс 2\Семестр 2\Sandbox_2.2\Лаб. раб 2\bin\Debug\net6.0-windows\Лаб. раб 2.runtimeconfig.json
+D:\Курс 2\Семестр 2\Sandbox_2.2\Лаб. раб 2\bin\Debug\net6.0-windows\Лаб. раб 2.dll
+D:\Курс 2\Семестр 2\Sandbox_2.2\Лаб. раб 2\bin\Debug\net6.0-windows\Лаб. раб 2.pdb
+D:\Курс 2\Семестр 2\Sandbox_2.2\Лаб. раб 2\obj\Debug\net6.0-windows\Лаб._раб_2.Form1.resources
+D:\Курс 2\Семестр 2\Sandbox_2.2\Лаб. раб 2\obj\Debug\net6.0-windows\Лаб. раб 2.csproj.GenerateResource.cache
+D:\Курс 2\Семестр 2\Sandbox_2.2\Лаб. раб 2\obj\Debug\net6.0-windows\Лаб. раб 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс 2\Семестр 2\Sandbox_2.2\Лаб. раб 2\obj\Debug\net6.0-windows\Лаб. раб 2.AssemblyInfoInputs.cache
+D:\Курс 2\Семестр 2\Sandbox_2.2\Лаб. раб 2\obj\Debug\net6.0-windows\Лаб. раб 2.AssemblyInfo.cs
+D:\Курс 2\Семестр 2\Sandbox_2.2\Лаб. раб 2\obj\Debug\net6.0-windows\Лаб. раб 2.csproj.CoreCompileInputs.cache
+D:\Курс 2\Семестр 2\Sandbox_2.2\Лаб. раб 2\obj\Debug\net6.0-windows\Лаб. раб 2.sourcelink.json
+D:\Курс 2\Семестр 2\Sandbox_2.2\Лаб. раб 2\obj\Debug\net6.0-windows\Лаб. раб 2.dll
+D:\Курс 2\Семестр 2\Sandbox_2.2\Лаб. раб 2\obj\Debug\net6.0-windows\refint\Лаб. раб 2.dll
+D:\Курс 2\Семестр 2\Sandbox_2.2\Лаб. раб 2\obj\Debug\net6.0-windows\Лаб. раб 2.pdb
+D:\Курс 2\Семестр 2\Sandbox_2.2\Лаб. раб 2\obj\Debug\net6.0-windows\Лаб. раб 2.genruntimeconfig.cache
+D:\Курс 2\Семестр 2\Sandbox_2.2\Лаб. раб 2\obj\Debug\net6.0-windows\ref\Лаб. раб 2.dll
