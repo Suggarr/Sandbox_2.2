@@ -11,6 +11,7 @@ namespace Лаб._раб_2
 
         public Form1()
         {
+            MaximizeBox = false;
             InitializeComponent();
         }
 
